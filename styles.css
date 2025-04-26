@@ -1,2 +1,33 @@
+.table1{
+	width:60%;
+	text-align:center;
+	border:1px solid black;
+	border-collapse:collapse;
+	
+}
+th,td{
+	border:1px solid black;
+	
+}
+th{
+	background-color:#C0504D;
+	color:white;
+	text-align:left;
+}
 
-/* Your CSS Code here. */
+td{
+	text-align:right
+}
+.row1{
+	background-color:#DA9694;
+	color:white;
+}
+.waist{
+	text-align:left
+}
+.chest{
+	background-color:#F2DCDB;
+}
+.sleeves{
+	background-color:#D9D9D9;
+}
